@@ -1,6 +1,6 @@
 'use strict';
 
-const { convertInputToArray } = require("./utils.js");
+const { convertInputToArray } = require("../utils.js");
 
 ///////////////////////////////// PART ONE /////////////////////////////////////
 
